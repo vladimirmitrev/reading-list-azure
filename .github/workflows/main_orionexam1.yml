@@ -59,4 +59,4 @@ jobs:
           app-name: 'orionexam1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35430C01E44647C590922C7F01EA0CB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BC7A5D340FB4615AAA7BA1CDF6BA2B8 }}
